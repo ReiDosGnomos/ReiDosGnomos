@@ -12,8 +12,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=github_dark)
-![Streak](https://streak-stats.demolab.com?user=YourGitHubUsername&theme=github-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=ReiDosGnomos&show_icons=true&theme=github_dark)
+![Streak](https://streak-stats.demolab.com?user=ReiDosGnomos&theme=github-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReiDosGnomos&layout=compact&theme=github_dark)
 
 ---
